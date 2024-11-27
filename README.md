@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Isaychi 
 - 👀 I’m interested in technical documentaion and localization (in russian language)
-- 💞️ I’m looking to hekp open source project by improving their documention
+- 💞️ I’m looking to help open source project by improving their documention
 - 📫 You can write me in telegram: @yan_partizan
 - ⚡ Fun fact: I am linguist from technical university
 
